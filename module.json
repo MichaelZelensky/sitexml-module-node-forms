@@ -1,0 +1,16 @@
+{
+    "name": "forms",
+    "version": "0.0.1",
+    "frontend": {
+        "main": "fe/index.js",
+        "dependencies": [
+            "fe/js/module.js"
+        ]
+    },
+    "backend": {
+        "main": "be/index.js"
+    },
+    "repository": "",
+    "author": "Michael Zelensky <michaelzelensky@gmail.com>",
+    "license": "MIT"
+}
